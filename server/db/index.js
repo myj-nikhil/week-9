@@ -28,3 +28,4 @@ const Course = mongoose.model('Course', courseSchema);
     Admin,
     Course
   }
+// test
